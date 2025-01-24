@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fd2a02ceef148443bd256dd10601d8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 219887
+  packageName: Pixel Enemies for SHMUP
+  packageVersion: 1.22
+  assetPath: Assets/Pixel Enemies for SHMUP/Anim/cannon-double.anim
+  uploadId: 590810

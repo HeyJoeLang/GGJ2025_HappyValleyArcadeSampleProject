@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72b70b31ccbda4bae8dd5cda36d2e02d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/SelectionBox/IBoxSelectable.cs
+  uploadId: 648810

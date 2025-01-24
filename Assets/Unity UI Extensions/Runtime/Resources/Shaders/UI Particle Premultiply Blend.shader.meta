@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0596a6838d78f624397b642817cf20bc
+timeCreated: 1502443969
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UI Particle Premultiply
+    Blend.shader
+  uploadId: 648810

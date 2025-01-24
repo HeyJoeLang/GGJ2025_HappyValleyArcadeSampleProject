@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87cd933870c6506418344281b3cb86fc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/ToolTips/HoverTooltip.cs
+  uploadId: 648810

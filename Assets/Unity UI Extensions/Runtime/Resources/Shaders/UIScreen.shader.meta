@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 227ac21f7763c00489cc458e3938e326
+timeCreated: 1464629199
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Resources/Shaders/UIScreen.shader
+  uploadId: 648810

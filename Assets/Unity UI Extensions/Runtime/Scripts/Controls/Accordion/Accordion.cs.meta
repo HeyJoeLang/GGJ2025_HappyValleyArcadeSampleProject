@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4387cc9950f37044c92f9d144a2b1002
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Controls/Accordion/Accordion.cs
+  uploadId: 648810

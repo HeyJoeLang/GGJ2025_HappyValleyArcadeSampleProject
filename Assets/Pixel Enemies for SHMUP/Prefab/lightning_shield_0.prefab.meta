@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da534a7333dee06469475640d08147ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 219887
+  packageName: Pixel Enemies for SHMUP
+  packageVersion: 1.22
+  assetPath: Assets/Pixel Enemies for SHMUP/Prefab/lightning_shield_0.prefab
+  uploadId: 590810

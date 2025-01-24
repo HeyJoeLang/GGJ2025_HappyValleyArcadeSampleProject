@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c053729641303074282de705dbd4b1b8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Editor/UnityUIExtensions.Editor.asmdef
+  uploadId: 648810

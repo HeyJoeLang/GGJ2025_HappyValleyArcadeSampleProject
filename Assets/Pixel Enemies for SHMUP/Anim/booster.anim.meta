@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a7eb6ae86375d14489320c0962e4352
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 219887
+  packageName: Pixel Enemies for SHMUP
+  packageVersion: 1.22
+  assetPath: Assets/Pixel Enemies for SHMUP/Anim/booster.anim
+  uploadId: 590810

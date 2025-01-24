@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b30dd83a12669d4f973ff5a79ca9842
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278336
+  packageName: INTERFACE - Sci-Fi Soldier HUD - UI
+  packageVersion: 1.0
+  assetPath: Assets/Unity UI Extensions/Runtime/Scripts/Effects/BestFitOutline.cs
+  uploadId: 648810
